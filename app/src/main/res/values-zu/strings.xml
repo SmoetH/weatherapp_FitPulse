@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FitPulse</string>
+    <string name="welcome_title">Siyakwamukela ku-FitPulse</string>
+    <string name="btn_signin">Ngena</string>
+    <string name="btn_create_account">Dala I-Akhawunti</string>
+    <string name="tv_loading">Ilayisha isimo sezulu...</string>
+</resources>

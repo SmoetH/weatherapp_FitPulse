@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FitPulse</string>
+    <string name="welcome_title">Amohela ho FitPulse</string>
+    <string name="btn_signin">Kena</string>
+    <string name="btn_create_account">Etsa Akhaonto</string>
+    <string name="tv_loading">E ntse e kenya boemo ba leholimo...</string>
+</resources>
